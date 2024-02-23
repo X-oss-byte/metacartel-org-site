@@ -33,7 +33,7 @@
     "react-slick": "^0.29.0",
     "remark-breaks": "^3.0.2",
     "siwe": "^1.1.6",
-    "wagmi": "^0.6.4"
+    "wagmi": "^0.12.19"
   },
   "devDependencies": {
     "@svgr/webpack": "^6.3.1",
